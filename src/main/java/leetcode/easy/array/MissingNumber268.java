@@ -1,4 +1,4 @@
-package leetcode;
+package leetcode.easy.array;
 
 // https://leetcode.com/problems/missing-number/
 
